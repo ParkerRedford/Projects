@@ -1,1 +1,1 @@
-Simple calculator using reverse polish notation
+Projects using JavaFX - 2018
